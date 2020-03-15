@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="697fc9f3-87a8-4f62-8d40-63a15a0a74b7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z21Tq3Iw0IKG20IUODm3qVSE5P" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="extract.method.default.visibility" value="private" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.company.my" />
+      <recent name="com.company.good.big_fabric" />
+      <recent name="com.company.good.fabric" />
+      <recent name="com.company.good.simple" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FactoryMain">
+    <configuration name="FactoryMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.my.FactoryMain" />
+      <module name="fabric" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.my.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="fabric" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PizzaTestDrive (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.good.fabric.PizzaTestDrive" />
+      <module name="fabric" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.good.fabric.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PizzaTestDrive (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.good.big_fabric.PizzaTestDrive" />
+      <module name="fabric" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.good.big_fabric.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PizzaTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.good.simple.PizzaTestDrive" />
+      <module name="fabric" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.good.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.PizzaTestDrive" />
+      <item itemvalue="Application.PizzaTestDrive (1)" />
+      <item itemvalue="Application.PizzaTestDrive (2)" />
+      <item itemvalue="Application.FactoryMain" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FactoryMain" />
+        <item itemvalue="Application.PizzaTestDrive (1)" />
+        <item itemvalue="Application.PizzaTestDrive" />
+        <item itemvalue="Application.PizzaTestDrive (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="697fc9f3-87a8-4f62-8d40-63a15a0a74b7" name="Default Changelist" comment="" />
+      <created>1584022385809</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584022385809</updated>
+      <workItem from="1584022389588" duration="5057000" />
+      <workItem from="1584082252490" duration="928000" />
+      <workItem from="1584083494112" duration="6535000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1584088555379">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1584088555379" />
+    <state x="592" y="67" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584089474351">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="592" y="67" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584089474351" />
+    <state width="1860" height="279" key="GridCell.Tab.0.bottom" timestamp="1584091361679">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584091361679" />
+    <state width="1860" height="279" key="GridCell.Tab.0.center" timestamp="1584091361679">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584091361679" />
+    <state width="1860" height="279" key="GridCell.Tab.0.left" timestamp="1584091361678">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584091361678" />
+    <state width="1860" height="279" key="GridCell.Tab.0.right" timestamp="1584091361679">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584091361679" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1584027455515">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1584027455515" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1584083603958">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584083603958" />
+    <state x="690" y="286" key="extract.method.dialog" timestamp="1584028704804">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="286" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584028704804" />
+    <state x="623" y="225" key="search.everywhere.popup" timestamp="1584027490516">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584027490516" />
+  </component>
+</project>
